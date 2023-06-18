@@ -6,8 +6,10 @@ public class Demo2 {
         return x>y?x:y;
     }
     public static void main(String[] args){
-        System.out.println(max(2,4));
-
+        max(2,4);
+        byte a =7, b=9;
+        System.out.println(max(7,9));
+// here 7,9 are integer type parameters. not byte type. if you want call max method which having byte as parameters.
 
     }
 }
