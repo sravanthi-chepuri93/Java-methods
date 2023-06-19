@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40859a47-057c-46ea-93a4-74e1f8c21483" name="Changes" comment="reversedNumber with algorithm">
-      <change afterPath="$PROJECT_DIR$/MethodOverloading/src/reverseArray.java" afterDir="false" />
+    <list default="true" id="40859a47-057c-46ea-93a4-74e1f8c21483" name="Changes" comment="reversedArray with algorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodOverloading/src/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodOverloading/src/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/src/reverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodOverloading/src/reverseArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687142985055</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="reversedArray with algorithm">
+      <created>1687144228489</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687144228490</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +163,7 @@
     <MESSAGE value="parameters" />
     <MESSAGE value="reversedNumber" />
     <MESSAGE value="reversedNumber with algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="reversedNumber with algorithm" />
+    <MESSAGE value="reversedArray with algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="reversedArray with algorithm" />
   </component>
 </project>
