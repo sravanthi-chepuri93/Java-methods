@@ -10,7 +10,7 @@ public class ReverseNumber {
 
     }
     public static void main(String[] args){
-        int RevNumber = reverse(456);d
+        int RevNumber = reverse(456);
         System.out.println(RevNumber);
 
     }
