@@ -11,7 +11,8 @@ public class challenge1_MaxElementByVar {
     }
     public static void main(String[] args){
         int m = max();
-        System.out.println(m);
+        int n = max(10,3,47);
+        System.out.println(n);
 
     }
 }

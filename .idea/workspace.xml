@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40859a47-057c-46ea-93a4-74e1f8c21483" name="Changes" comment="validate by method overloading">
-      <change afterPath="$PROJECT_DIR$/varioableArguments/src/VARdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/varioableArguments/src/VARdemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/varioableArguments/src/VARdemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/varioableArguments/src/challenge1_MaxElementByVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/varioableArguments/varioableArguments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="40859a47-057c-46ea-93a4-74e1f8c21483" name="Changes" comment="challenge1 finding maximum element by using variabl eargumetns">
+      <change afterPath="$PROJECT_DIR$/varioableArguments/src/VARByUsingCommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varioableArguments/src/challenge2_sumOfAllElementsUsingVAR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varioableArguments/src/challenge3_discount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varioableArguments/src/challenge1_MaxElementByVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/varioableArguments/src/challenge1_MaxElementByVar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687147336248</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="challenge1 finding maximum element by using variabl eargumetns">
+      <created>1687313852316</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687313852316</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +189,7 @@
     <MESSAGE value="reversedNumber with algorithm" />
     <MESSAGE value="reversedArray with algorithm" />
     <MESSAGE value="validate by method overloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="validate by method overloading" />
+    <MESSAGE value="challenge1 finding maximum element by using variabl eargumetns" />
+    <option name="LAST_COMMIT_MESSAGE" value="challenge1 finding maximum element by using variabl eargumetns" />
   </component>
 </project>
